@@ -1,10 +1,13 @@
 #include <stdio.h>
+
 /**
- * main . Hello a program that  print f function 
- * Return: 0
+ * main - this is the program to print f function
+ *
+ * Return: 0 (success)
  */
 
 int main(void)
-printf("with proper grammar, but the outcome is a piece of art,"\n)
-return (0);
+{
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
