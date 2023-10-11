@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
  * print_name - a function that prints name
- * @name: string 
- * @f: pointer 
+ * @name: string
+ * @f: pointer
  * Return: 0
  **/
 void print_name(char *name, void (*f)(char *))
